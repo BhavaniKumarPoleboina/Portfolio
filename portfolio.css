@@ -350,7 +350,7 @@
         margin-left: 80px;
     }
     #education{
-        height: 235vh; 
+        height: 250vh; 
         background: #ced4da;
         padding: 50px;
     }
@@ -379,7 +379,7 @@
         margin-top: 5px;
     }
     #projects{
-        height: 225vh;
+        height: 230vh;
     }
     #projects .project-card {
         cursor: pointer; 
@@ -421,7 +421,7 @@
         margin-top: 20px;
       }
       #contact{
-        height: 105vh; 
+        height: 120vh; 
         background: #495057; 
         padding: 50px;
     }
@@ -436,6 +436,6 @@
         padding: 50px;
     }
     #certificates{
-        height:140vh;
+        height:141vh;
      }
 }
